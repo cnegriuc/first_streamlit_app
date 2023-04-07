@@ -1,2 +1,2 @@
 # requirements.txt
-py_install("snowflake-connector-python")
+snowflake-connector-python
